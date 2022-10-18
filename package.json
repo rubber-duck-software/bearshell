@@ -1,0 +1,16 @@
+{
+  "name": "bearshell",
+  "version": "0.0.1",
+  "description": "A bearbones api for shell scripting in Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.0"
+  }
+}
